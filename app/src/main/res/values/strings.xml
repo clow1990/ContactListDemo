@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ContactDemo</string>
+    <string name="activity_contact_title">Contacts</string>
+    <string name="activity_no_contact_found">No contact was found.</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="main_info">Main Information</string>
+    <string name="sub_info">Sub Information</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="required">Required</string>
 </resources>
